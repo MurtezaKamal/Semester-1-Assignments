@@ -1,0 +1,67 @@
+PYP101,Python Programming,Saturday,9.00am,C-01-01,TID1
+JAV102,Java Programming,Sunday,9.00am,C-01-02,TID2
+CPL103,C Programming,Saturday,2.00pm,C-01-03,TID3
+WEB104,Web Development,Sunday,2.00pm,C-01-04,TID4
+CSP105,C Sharp Programming,Monday,7.00pm,C-01-05,TID5
+C-110, C++, Monday, 10.00am, C-01-06, TID6 
+PYP101,Python Programming,Saturday,9.00am,C-01-01,TID1
+JAV102,Java Programming,Sunday,9.00am,C-01-02,TID2
+CPL103,C Programming,Saturday,2.00pm,C-01-03,TID3
+WEB104,Web Development,Sunday,2.00pm,C-01-04,TID4
+CSP105,C Sharp Programming,Monday,7.00pm,C-01-05,TID5
+PYP101,Python Programming,Saturday,9.00am,C-01-01,TID1
+JAV102,Java Programming,Sunday,9.00am,C-01-02,TID2
+CPL103,C Programming,Saturday,2.00pm,C-01-03,TID3
+WEB104,Web Development,Sunday,2.00pm,C-01-04,TID4
+CSP105,C Sharp Programming,Monday,7.00pm,C-01-05,TID5
+PYP101,Python Programming,Saturday,9.00am,C-01-01,TID1
+JAV102,Java Programming,Sunday,9.00am,C-01-02,TID2
+CPL103,C Programming,Saturday,2.00pm,C-01-03,TID3
+WEB104,Web Development,Sunday,2.00pm,C-01-04,TID4
+CSP105,C Sharp Programming,Monday,7.00pm,C-01-05,TID5
+PYP101,Python Programming,Saturday,9.00am,C-01-01,TID1
+JAV102,Java Programming,Sunday,9.00am,C-01-02,TID2
+CPL103,C Programming,Saturday,2.00pm,C-01-03,TID3
+WEB104,Web Development,Sunday,2.00pm,C-01-04,TID4
+CSP105,C Sharp Programming,Monday,7.00pm,C-01-05,TID5
+PYP101,Python Programming,Saturday,9.00am,C-01-01,TID1
+JAV102,Java Programming,Sunday,9.00am,C-01-02,TID2
+CPL103,C Programming,Saturday,2.00pm,C-01-03,TID3
+WEB104,Web Development,Sunday,2.00pm,C-01-04,TID4
+CSP105,C Sharp Programming,Monday,7.00pm,C-01-05,TID5
+PYP101,Python Programming,Saturday,9.00am,C-01-01,TID1
+JAV102,Java Programming,Sunday,9.00am,C-01-02,TID2
+CPL103,C Programming,Saturday,2.00pm,C-01-03,TID3
+WEB104,Web Development,Sunday,2.00pm,C-01-04,TID4
+CSP105,C Sharp Programming,Monday,7.00pm,C-01-05,TID5
+PYP100, Python, Tuesday, 9.00am, C-01-07, TID7 
+PYP101,Python Programming,Saturday,9.00am,C-01-01,TID1
+JAV102,Java Programming,Sunday,9.00am,C-01-02,TID2
+CPL103,C Programming,Saturday,2.00pm,C-01-03,TID3
+WEB104,Web Development,Sunday,2.00pm,C-01-04,TID4
+CSP105,C Sharp Programming,Monday,7.00pm,C-01-05,TID5
+PYP101,Python Programming,Saturday,9.00am,C-01-01,TID1
+JAV102,Java Programming,Sunday,9.00am,C-01-02,TID2
+CPL103,C Programming,Saturday,2.00pm,C-01-03,TID3
+WEB104,Web Development,Sunday,2.00pm,C-01-04,TID4
+CSP105,C Sharp Programming,Monday,7.00pm,C-01-05,TID5
+PYP101,Python Programming,Saturday,9.00am,C-01-01,TID1
+JAV102,Java Programming,Sunday,9.00am,C-01-02,TID2
+CPL103,C Programming,Saturday,2.00pm,C-01-03,TID3
+WEB104,Web Development,Sunday,2.00pm,C-01-04,TID4
+CSP105,C Sharp Programming,Monday,7.00pm,C-01-05,TID5
+PYP101,Python Programming,Saturday,9.00am,C-01-01,TID1
+JAV102,Java Programming,Sunday,9.00am,C-01-02,TID2
+CPL103,C Programming,Saturday,2.00pm,C-01-03,TID3
+WEB104,Web Development,Sunday,2.00pm,C-01-04,TID4
+CSP105,C Sharp Programming,Monday,7.00pm,C-01-05,TID5
+PYP101,Python Programming,Saturday,9.00am,C-01-01,TID1
+JAV102,Java Programming,Sunday,9.00am,C-01-02,TID2
+CPL103,C Programming,Saturday,2.00pm,C-01-03,TID3
+WEB104,Web Development,Sunday,2.00pm,C-01-04,TID4
+CSP105,C Sharp Programming,Monday,7.00pm,C-01-05,TID5
+PYP101,Python Programming,Saturday,9.00am,C-01-01,TID1
+JAV102,Java Programming,Sunday,9.00am,C-01-02,TID2
+CPL103,C Programming,Saturday,2.00pm,C-01-03,TID3
+WEB104,Web Development,Sunday,2.00pm,C-01-04,TID4
+CSP105,C Sharp Programming,Monday,7.00pm,C-01-05,TID5
